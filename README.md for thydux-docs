@@ -1,0 +1,69 @@
+# Thydux Documentation
+
+Welcome to the official documentation repository for Thydux, a blockchain-focused platform designed to enhance cryptocurrency trading and investments. This repository contains all the resources, guides, and API documentation needed to help users and developers get the most out of Thydux and its suite of tools.
+
+## Overview
+
+Thydux offers a range of features including:
+- Smart Trading Strategies: Advanced algorithms to optimize crypto trading.
+- Portfolio Tracking: Real-time monitoring of investments and performance.
+- Customizable Investment Tools: Tailor strategies to match trading goals and risk profiles.
+
+This documentation provides comprehensive details on how to set up, use, and extend Thydux’s features.
+
+## Getting Started
+
+If you're new to Thydux, start with these guides:
+- [Quick Start Guide](docs/quick-start.md): A simple setup guide to get you started with Thydux in a few steps.
+- [User Guide](docs/user-guide.md): Detailed instructions on using Thydux’s features effectively.
+- [API Reference](docs/api-reference.md): Information on integrating Thydux tools programmatically.
+
+## Installation
+
+To run the documentation locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/THYDUX/thydux-docs.git
+   cd thydux-docs
+
+	2.	If you’re using MkDocs or Docusaurus:
+
+npm install
+npm start
+
+This will launch a local server where you can view the documentation.
+
+Contributing
+
+We welcome contributions to enhance the quality and accuracy of our documentation. To contribute:
+
+	1.	Fork this repository.
+	2.	Create a new branch (git checkout -b update-docs).
+	3.	Make your changes and commit them (git commit -m 'docs: update guide').
+	4.	Push your branch (git push origin update-docs).
+	5.	Open a Pull Request (PR) and describe your changes.
+
+Please read our Contributing Guidelines for more details.
+
+License
+
+This documentation is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+
+If you have questions, suggestions, or need support, please reach out to us:
+
+	•	Email: support@thydux.com
+	•	GitHub Issues: Submit an issue
+
+Thank you for using Thydux!
+
+### Explanation of Each Section:
+1. Overview: Briefly explains what Thydux does and what this documentation covers.
+2. Getting Started: Directs users to key documentation sections for easy access.
+3. Installation: Provides basic setup instructions for those who want to run the documentation locally.
+4. Contributing: Encourages contributions and explains the process.
+5. License: Mentions the license under which the documentation is shared.
+6. Contact: Provides ways for users to get in touch for support or feedback.
+
+This README.md is structured to be simple yet informative, ensuring that users and developers can easily find what they need. Let me know if you need any more customization or additions!
